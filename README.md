@@ -18,8 +18,8 @@ This project is a RESTful API built with Laravel for managing blogs, posts, like
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/blog-api-project.git
-cd blog-api-project
+git clone https://github.com/Iniee/Blog-Restful-API.git
+
 
 composer install
 
